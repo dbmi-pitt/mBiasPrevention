@@ -1,7 +1,5 @@
 # mBiasPrevention
 
-![SAM-AMIASymp2022.png](/Images/SAM-AMIASymp2022.png)
-
 # mbiasprevention
 Correcting and Preventing "M"-bias
 
